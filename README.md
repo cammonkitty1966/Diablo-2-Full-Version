@@ -236,4 +236,4 @@ This repository serves as the official landing page for Diablo 2. The software i
 **Get the most recent version of Diablo 2 today!**
 
 ---
-**Last updated:** 2026-10-04 18:58:43 UTC
+**Last updated:** 2026-10-04 22:13:22 UTC
